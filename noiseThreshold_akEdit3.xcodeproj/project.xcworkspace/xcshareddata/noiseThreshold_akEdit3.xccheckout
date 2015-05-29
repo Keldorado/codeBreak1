@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>718C1FCB-D9E5-4215-8643-48B4BF931E19</string>
+	<key>IDESourceControlProjectName</key>
+	<string>noiseThreshold_akEdit3</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C7E4CA6D83153BE6BE1C7BC0F75CF46BA5898ED1</key>
+		<string>https://github.com/Keldorado/codeBreak1.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>noiseThreshold_akEdit3.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C7E4CA6D83153BE6BE1C7BC0F75CF46BA5898ED1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Keldorado/codeBreak1.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C7E4CA6D83153BE6BE1C7BC0F75CF46BA5898ED1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C7E4CA6D83153BE6BE1C7BC0F75CF46BA5898ED1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>noiseThreshold_akEdit3</string>
+		</dict>
+	</array>
+</dict>
+</plist>
